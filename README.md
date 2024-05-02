@@ -1,1 +1,1 @@
-# rsschool-cv-2024
+https://NatellaJS.github.io/rsschool-cv-2024/cv
